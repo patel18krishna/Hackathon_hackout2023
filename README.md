@@ -1,0 +1,2 @@
+This code shows the logic of our behind the main idea. Basically its the most important logic of our backend. At some places some hypothetic values are taken. In real time we will fetch the data from our main database but because of platform dependencies we could not connect the database. Though we have designed hypothetic database and it will be shared with the code.
+If anyone have any dataset available for this kind of logic please mail on kgp180604@gmail.com
